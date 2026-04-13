@@ -51,3 +51,10 @@ This project was likely developed using NetBeans IDE. To compile and run it:
     java -cp build/classes curalli.Curalli
     ```
     Follow the on-screen menu to interact with the system.
+
+---
+
+## 👥 Team Members
+Developed as part of the **Electrical Machines Project** at **Sana'a University**:
+- **Mutasim Al-Kamil** ([GitHub](https://github.com/Asoomkamel) | [LinkedIn](https://www.linkedin.com/in/mutasim-al-kamil-40a299318))
+- **Osama Mohammed Maudha**
